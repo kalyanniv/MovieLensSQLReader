@@ -1,0 +1,5 @@
+C:\GitHub\MovieLensSQLReader\SQLReader\SQLReader\bin\Debug\SQLReader.exe.config
+C:\GitHub\MovieLensSQLReader\SQLReader\SQLReader\bin\Debug\SQLReader.exe
+C:\GitHub\MovieLensSQLReader\SQLReader\SQLReader\bin\Debug\SQLReader.pdb
+C:\GitHub\MovieLensSQLReader\SQLReader\SQLReader\obj\Debug\SQLReader.exe
+C:\GitHub\MovieLensSQLReader\SQLReader\SQLReader\obj\Debug\SQLReader.pdb
